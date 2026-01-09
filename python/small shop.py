@@ -1,3 +1,4 @@
+#learning code
 queue = []
 token = 1 
 
